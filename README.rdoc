@@ -4,3 +4,10 @@ Aplicativo criado durante o curso de desenvolvimento com Rails na platadorma Ude
 
 Link para a aplicação no Heroku https://emerson-photo-app.herokuapp.com/
 
+Para testar a aplicação em com o seguinte informação de cartão de crédito para teste:
+
+Number: 4242424242424242
+CVV: qualquer um, exemplo: 021
+Card Expires: qualquer data superior a data atual.
+
+
